@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Tritons’ Fountain",
+    "description": "Complete travel guide to Tritons’ Fountain in Malta. Learn about this iconic fountain in Floriana, including location and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Tritons’ Fountain",
+    "subtitle": "Fountain · Malta",
+    "rating": "4.7",
+    "reviewCount": "27,532 reviews",
+    "type": "Fountain",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+  },
+  "intro": {
+    "title": "Discover Tritons’ Fountain",
+    "description": "Tritons’ Fountain is one of Malta's most famous landmarks, located in the square outside the City Gate of Valletta, in Floriana. This magnificent bronze fountain, built in 1959 and designed by sculptor Vincent Apap, features three mythological Tritons holding up a massive basin, symbolizing Malta's deep connection with the sea.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The fountain square is spacious and flat, perfect for a leisurely walk and taking photos.",
+        "The fountain is beautifully illuminated at night, making it an excellent spot for night views and romantic strolls.",
+        "The square is highly accessible and serves as the main gateway to the historic city of Valletta."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Magnificent bronze Triton statues",
+        "Important Maltese landmark",
+        "Charming night illumination",
+        "Spacious public square"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Tritons’ Fountain",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "Tritons’ Fountain was constructed in 1959, designed by renowned Maltese sculptor Vincent Apap and draughtsman Victor Anastasi. It was built to decorate the newly constructed bus terminus and quickly became a symbol of Malta's independence and national identity."
+      },
+      {
+        "id": "layout",
+        "title": "Design & Architecture",
+        "content": "The main structure of the fountain consists of three bronze Triton figures jointly holding up a massive basin. Water overflows from the basin, creating beautiful cascades. The base is constructed from limestone, echoing the historical architectural style of the surroundings."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As a landmark outside Valletta's City Gate, Tritons’ Fountain is not only a popular photo spot for tourists but also a central square for local residents to gather, celebrate festivals, and host major public events."
+      },
+      {
+        "id": "preservation",
+        "title": "Restoration & Preservation",
+        "content": "The fountain underwent a comprehensive restoration between 2017 and 2018, removing years of grime and damage to restore the bronze statues to their original glory. The square was also redesigned to become a fully pedestrianized public space."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Tritons’ Fountain",
+    "type": "Attraction Type",
+    "typeValue": "Fountain / Monument",
+    "country": "Country",
+    "countryValue": "Malta",
+    "city": "City",
+    "cityValue": "Floriana",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7 (27,532)",
+    "address": "Address",
+    "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGW5+783 Il-Furjana, Malta",
+    "phone": "Phone",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Square Access",
+    "parkTime": "Open 24 hours daily",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, perfect for a stroll in the square",
+    "bestTimeSummer": "Summer: Enjoy the cool breeze and beautiful night illumination",
+    "bestTimeAutumn": "Autumn: Mild weather, ideal for taking memorable photos",
+    "bestTimeWinter": "Winter: Experience the peaceful urban atmosphere",
+    "tip": "The fountain is located in an open public square and can be visited free of charge at any time."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Visit Fee",
+    "parkPrice": "As a public landmark, Tritons’ Fountain is completely free and open to all visitors.",
+    "parking": "Parking",
+    "parkingPrice": "Paid public parking is available outside the walls of Valletta.",
+    "guided": "Guided Tours",
+    "guidedPrice": "No official guided tours are provided, but many Valletta walking tours start here."
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Valletta City Center",
+    "fromCenterDesc": "Just a 1-minute walk outside the Valletta City Gate to reach the fountain square.",
+    "fromStation": "From Bus Terminus",
+    "fromStationDesc": "Valletta's main bus terminus is adjacent to the fountain, where almost all buses to the capital stop.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Direct airport buses are available to the Valletta bus terminus.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Bus routes from all over Malta have services to the Valletta terminus.",
+    "walking": "Walking",
+    "walkingDesc": "The square is wide and flat, making it very suitable for walking to the City Gate.",
+    "driving": "Driving",
+    "drivingDesc": "It is recommended to park at the MCP Car Park and walk."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Explore Tritons’ Fountain and the surrounding historical area.",
+    "steps": [
+      "Arrive at the Valletta bus terminus; Tritons’ Fountain will be the first sight to greet you",
+      "Walk around the fountain to admire the details of the bronze Triton statues",
+      "Take a photo with the magnificent Valletta City Gate in the background",
+      "Cross the bridge through the City Gate and officially enter the historic old town of Valletta",
+      "Upon returning at night, enjoy the fountain's captivating illumination"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Fountain Front Panorama",
+        "description": "Stand directly in front of the square to capture the spectacular view of the three Tritons holding the basin.",
+        "location": "Front of Fountain",
+        "image": "/gallery/tritons-fountain (1).jpg"
+      },
+      {
+        "title": "Valletta City Gate Background",
+        "description": "Use the modern Valletta City Gate as a backdrop to capture the blend of the ancient fountain and modern architecture.",
+        "location": "Side of Fountain",
+        "image": "/gallery/tritons-fountain (2).jpg"
+      },
+      {
+        "title": "Night Illumination",
+        "description": "When the lights turn on at night, the fountain glows golden, making it an excellent time for night photography.",
+        "location": "Any Angle in the Square",
+        "image": "/gallery/tritons-fountain (3).jpg"
+      },
+      {
+        "title": "Water Cascades Close-up",
+        "description": "Get close to capture the dynamic beauty of water cascading from the massive basin.",
+        "location": "Edge of Fountain",
+        "image": "/gallery/tritons-fountain (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "Valletta Old Town",
+        "desc": "Staying within the city walls offers an immersive historical experience, just a few minutes' walk from the fountain.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Floriana",
+        "desc": "The district where the fountain is located offers many elegant hotels close to major attractions.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Sliema",
+        "desc": "If you prefer a seaside resort vibe, Sliema is a great choice with convenient ferry access to Valletta.",
+        "price": "Recommended"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Spectacular Views of Tritons’ Fountain",
+    "captions": [
+      "Fountain panorama",
+      "Triton statue close-up",
+      "Night fountain",
+      "Square view",
+      "Basin details",
+      "City Gate background",
+      "Bronze texture",
+      "Illumination effects",
+      "Splashing water",
+      "At dusk",
+      "Bustling crowd",
+      "Monument distant view",
+      "Historical architecture blend",
+      "Fountain under clear sky",
+      "Peaceful morning",
+      "Square night view"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "A perfect landmark before entering Valletta. The fountain looks absolutely magnificent, especially when lit up at night."
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "A huge square and very clean. You see this spectacular fountain right after getting off the bus, leaving a deep impression."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "One of Malta's iconic structures. Sitting by the fountain, resting and watching people go by feels very relaxing."
+      },
+      {
+        "name": "David T.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "After the renovation, the whole square became a pedestrian zone, free from the previous crowds and exhaust fumes. Perfect for taking photos."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "The three Triton statues are lifelike, and the combination of bronze and water shows Malta's close connection to the sea."
+      },
+      {
+        "name": "James M.",
+        "rating": 4,
+        "date": "2025-09-05",
+        "text": "Although just a fountain, it is the starting point of every trip to the capital Valletta and carries the memories of this city."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Tritons’ Fountain",
+    "brandSubtitle": "Monument · Malta",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "gov": "Government of Malta",
+      "visitmalta": "Visit Malta (Official Tourism Board)",
+      "localgov": "Floriana Local Council",
+      "heritage": "Superintendence of Cultural Heritage",
+      "planning": "Planning Authority"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel and historical information about Tritons’ Fountain in Malta. All content is for reference only. Actual conditions of the attraction may change at any time; please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Tritons’ Fountain",
+    "text": "Tritons’ Fountain is a significant landmark and public monument in Malta. The structure is routinely maintained and managed by relevant municipal departments and heritage authorities to ensure its pristine condition as a national symbol."
+  }
+}

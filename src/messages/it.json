@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Fontana dei Tritoni",
+    "description": "Guida di viaggio completa alla Fontana dei Tritoni a Malta. Scopri questa iconica fontana a Floriana, incluse posizione e informazioni per i visitatori."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla Home"
+  },
+  "hero": {
+    "title": "Fontana dei Tritoni",
+    "subtitle": "Fontana · Malta",
+    "rating": "4.7",
+    "reviewCount": "27.532 recensioni",
+    "type": "Fontana",
+    "openMaps": "Vedi su Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+  },
+  "intro": {
+    "title": "Scopri la Fontana dei Tritoni",
+    "description": "La Fontana dei Tritoni è uno dei monumenti più famosi di Malta, situata nella piazza fuori dalla Porta della Città di La Valletta, a Floriana. Questa magnifica fontana in bronzo, costruita nel 1959 e progettata dallo scultore Vincent Apap, presenta tre Tritoni mitologici che sorreggono un enorme bacino, a simboleggiare il profondo legame di Malta con il mare.",
+    "visitGuide": {
+      "title": "Consigli per la Visita",
+      "items": [
+        "La piazza della fontana è spaziosa e pianeggiante, perfetta per una piacevole passeggiata e per scattare foto.",
+        "La fontana è splendidamente illuminata di notte, rendendola un luogo eccellente per viste notturne.",
+        "La piazza è facilmente accessibile e funge da porta principale per la storica città di La Valletta."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti Salienti",
+      "items": [
+        "Magnifiche statue in bronzo dei Tritoni",
+        "Importante punto di riferimento maltese",
+        "Incantevole illuminazione notturna",
+        "Ampia piazza pubblica"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Informazioni sulla Fontana dei Tritoni",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contesto Storico",
+        "content": "La Fontana dei Tritoni è stata costruita nel 1959, progettata dal famoso scultore maltese Vincent Apap e dal disegnatore Victor Anastasi. È stata costruita per decorare il nuovo capolinea degli autobus ed è diventata rapidamente un simbolo dell'indipendenza e dell'identità nazionale di Malta."
+      },
+      {
+        "id": "layout",
+        "title": "Design e Architettura",
+        "content": "La struttura principale della fontana è composta da tre figure in bronzo di Tritoni che sorreggono congiuntamente un enorme bacino. L'acqua trabocca dal bacino, creando bellissime cascate. La base è costruita in pietra calcarea, richiamando lo stile architettonico storico dei dintorni."
+      },
+      {
+        "id": "culture",
+        "title": "Significato Culturale",
+        "content": "Come punto di riferimento fuori dalla Porta della Città di La Valletta, la Fontana dei Tritoni non è solo un popolare punto fotografico per i turisti, ma anche una piazza centrale dove i residenti locali si riuniscono, celebrano feste e ospitano importanti eventi pubblici."
+      },
+      {
+        "id": "preservation",
+        "title": "Restauro e Conservazione",
+        "content": "La fontana è stata sottoposta a un restauro completo tra il 2017 e il 2018, rimuovendo anni di sporco e danni per riportare le statue in bronzo al loro antico splendore. Anche la piazza è stata riprogettata per diventare uno spazio pubblico completamente pedonale."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazioni di Base",
+    "officialName": "Nome Ufficiale",
+    "officialNameValue": "Tritons’ Fountain",
+    "type": "Tipo di Attrazione",
+    "typeValue": "Fontana / Monumento",
+    "country": "Paese",
+    "countryValue": "Malta",
+    "city": "Città",
+    "cityValue": "Floriana",
+    "googleRating": "Valutazione Google",
+    "googleRatingValue": "4.7 (27.532)",
+    "address": "Indirizzo",
+    "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGW5+783 Il-Furjana, Malta",
+    "phone": "Telefono",
+    "phoneValue": "N/D"
+  },
+  "hours": {
+    "title": "Orari di Visita",
+    "park": "Accesso alla Piazza",
+    "parkTime": "Aperto 24 ore su 24",
+    "bestTime": "Miglior Momento per Visitare",
+    "bestTimeSpring": "Primavera: Clima piacevole, perfetto per una passeggiata nella piazza",
+    "bestTimeSummer": "Estate: Goditi la fresca brezza e la bellissima illuminazione notturna",
+    "bestTimeAutumn": "Autunno: Clima mite, ideale per scattare foto memorabili",
+    "bestTimeWinter": "Inverno: Vivi la tranquilla atmosfera urbana",
+    "tip": "La fontana si trova in una piazza pubblica aperta e può essere visitata gratuitamente in qualsiasi momento."
+  },
+  "tickets": {
+    "title": "Informazioni sull'Ingresso",
+    "park": "Costo della Visita",
+    "parkPrice": "Essendo un punto di riferimento pubblico, la Fontana dei Tritoni è completamente gratuita e aperta a tutti i visitatori.",
+    "parking": "Parcheggio",
+    "parkingPrice": "Parcheggio pubblico a pagamento è disponibile fuori dalle mura di La Valletta.",
+    "guided": "Visite Guidate",
+    "guidedPrice": "Non sono previste visite guidate ufficiali, ma molti tour a piedi di La Valletta iniziano qui."
+  },
+  "transport": {
+    "title": "Come Arrivare",
+    "fromCenter": "Dal Centro di La Valletta",
+    "fromCenterDesc": "A solo 1 minuto a piedi fuori dalla Porta della Città di La Valletta per raggiungere la piazza della fontana.",
+    "fromStation": "Dal Capolinea degli Autobus",
+    "fromStationDesc": "Il capolinea principale degli autobus di La Valletta è adiacente alla fontana, dove fermano quasi tutti gli autobus diretti alla capitale.",
+    "fromAirport": "Dall'Aeroporto",
+    "fromAirportDesc": "Autobus diretti dall'aeroporto sono disponibili per il capolinea di La Valletta.",
+    "publicTransport": "Trasporto Pubblico",
+    "publicTransportDesc": "Le linee di autobus da tutta Malta hanno servizi per il capolinea di La Valletta.",
+    "walking": "A Piedi",
+    "walkingDesc": "La piazza è ampia e pianeggiante, rendendola molto adatta per camminare fino alla Porta della Città.",
+    "driving": "In Auto",
+    "drivingDesc": "Si consiglia di parcheggiare al parcheggio MCP e proseguire a piedi."
+  },
+  "route": {
+    "title": "Percorso Consigliato",
+    "overview": "Esplora la Fontana dei Tritoni e l'area storica circostante.",
+    "steps": [
+      "Arriva al capolinea degli autobus di La Valletta; la Fontana dei Tritoni sarà la prima vista ad accoglierti",
+      "Passeggia intorno alla fontana per ammirare i dettagli delle statue in bronzo dei Tritoni",
+      "Scatta una foto con la magnifica Porta della Città di La Valletta sullo sfondo",
+      "Attraversa il ponte attraverso la Porta della Città ed entra ufficialmente nel centro storico di La Valletta",
+      "Tornando di notte, goditi l'incantevole illuminazione della fontana"
+    ]
+  },
+  "photoSpots": {
+    "title": "Migliori Punti Fotografici",
+    "spots": [
+      {
+        "title": "Panorama Frontale",
+        "description": "Posizionati direttamente di fronte alla piazza per catturare la vista spettacolare dei tre Tritoni che sorreggono il bacino.",
+        "location": "Di Fronte alla Fontana",
+        "image": "/gallery/tritons-fountain (1).jpg"
+      },
+      {
+        "title": "Sfondo della Porta della Città",
+        "description": "Usa la moderna Porta della Città di La Valletta come sfondo per catturare la fusione tra l'antica fontana e l'architettura moderna.",
+        "location": "Lato della Fontana",
+        "image": "/gallery/tritons-fountain (2).jpg"
+      },
+      {
+        "title": "Illuminazione Notturna",
+        "description": "Quando le luci si accendono di notte, la fontana brilla d'oro, rendendola un momento eccellente per la fotografia notturna.",
+        "location": "Qualsiasi Angolazione",
+        "image": "/gallery/tritons-fountain (3).jpg"
+      },
+      {
+        "title": "Primo Piano delle Cascate",
+        "description": "Avvicinati per catturare la bellezza dinamica dell'acqua che scende dall'enorme bacino.",
+        "location": "Bordo della Fontana",
+        "image": "/gallery/tritons-fountain (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guida agli Alloggi",
+    "hotels": [
+      {
+        "name": "Centro Storico di La Valletta",
+        "desc": "Soggiornare all'interno delle mura della città offre un'esperienza storica immersiva, a pochi minuti a piedi dalla fontana.",
+        "price": "Consigliato"
+      },
+      {
+        "name": "Floriana",
+        "desc": "Il quartiere in cui si trova la fontana offre molti hotel eleganti vicino alle principali attrazioni.",
+        "price": "Consigliato"
+      },
+      {
+        "name": "Sliema",
+        "desc": "Se preferisci un'atmosfera da resort sul mare, Sliema è un'ottima scelta con un comodo accesso in traghetto a La Valletta.",
+        "price": "Consigliato"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria Fotografica",
+    "subtitle": "Viste Spettacolari della Fontana dei Tritoni",
+    "captions": [
+      "Panorama della fontana",
+      "Primo piano della statua dei Tritoni",
+      "Fontana di notte",
+      "Vista della piazza",
+      "Dettagli del bacino",
+      "Sfondo della Porta della Città",
+      "Texture in bronzo",
+      "Effetti di illuminazione",
+      "Spruzzi d'acqua",
+      "Al tramonto",
+      "Folla vivace",
+      "Vista in lontananza del monumento",
+      "Fusione di architettura storica",
+      "Fontana sotto il cielo sereno",
+      "Mattina tranquilla",
+      "Vista notturna della piazza"
+    ],
+    "viewAll": "Vedi su Google Maps",
+    "showAll": "Vedi Tutte le Foto",
+    "showLess": "Mostra Meno"
+  },
+  "reviews": {
+    "title": "Recensioni dei Visitatori",
+    "declaration": "Le recensioni possono essere visualizzate tramite Google Maps.",
+    "moreReviews": "Vedi altre recensioni su Google Maps",
+    "items": [
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "15-05-2026",
+        "text": "Un punto di riferimento perfetto prima di entrare a La Valletta. La fontana ha un aspetto assolutamente magnifico, specialmente quando è illuminata di notte."
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "date": "20-04-2026",
+        "text": "Una piazza enorme e molto pulita. Vedi questa spettacolare fontana subito dopo essere sceso dall'autobus, lasciando una profonda impressione."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "10-03-2026",
+        "text": "Una delle strutture iconiche di Malta. Sedersi vicino alla fontana, riposare e guardare la gente passare è molto rilassante."
+      },
+      {
+        "name": "David T.",
+        "rating": 5,
+        "date": "28-02-2026",
+        "text": "Dopo la ristrutturazione, l'intera piazza è diventata una zona pedonale, libera dalla folla e dai gas di scarico precedenti. Perfetto per scattare foto."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "12-11-2025",
+        "text": "Le tre statue dei Tritoni sono realistiche e la combinazione di bronzo e acqua mostra lo stretto legame di Malta con il mare."
+      },
+      {
+        "name": "James M.",
+        "rating": 4,
+        "date": "05-09-2025",
+        "text": "Sebbene sia solo una fontana, è il punto di partenza di ogni viaggio verso la capitale La Valletta e porta i ricordi di questa città."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Posizione sulla Mappa",
+    "subtitle": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "openMaps": "Vedi su Google Maps"
+  },
+  "footer": {
+    "brandName": "Fontana dei Tritoni",
+    "brandSubtitle": "Monumento · Malta",
+    "rights": "© 2026 Progetto di Ricerca sul Turismo Indipendente · Tutti i Diritti Riservati.",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "cookies": "Impostazioni dei Cookie",
+    "officialResourcesTitle": "Risorse e Informazioni Correlate",
+    "officialLinks": {
+      "gov": "Governo di Malta",
+      "visitmalta": "Visit Malta (Ente Ufficiale per il Turismo)",
+      "localgov": "Consiglio Locale di Floriana",
+      "heritage": "Soprintendenza ai Beni Culturali",
+      "planning": "Autorità di Pianificazione"
+    },
+    "disclaimer": "Questo sito web è un progetto di informazione turistica indipendente di terze parti. Non siamo affiliati al governo locale o a nessun'altra agenzia ufficiale."
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "title": "Raccolta di Informazioni",
+        "content": "Quando visiti il nostro sito web, potremmo raccogliere automaticamente informazioni di base sul tuo dispositivo, browser e comportamento di navigazione per fornire una migliore esperienza utente. Queste informazioni non contengono la tua identità personale."
+      },
+      {
+        "title": "Uso dei Cookie",
+        "content": "Utilizziamo i cookie per analizzare il traffico del sito web e ottimizzare i contenuti della pagina. Puoi gestire le tue preferenze in qualsiasi momento tramite l'opzione Impostazioni dei Cookie in fondo al nostro sito."
+      },
+      {
+        "title": "Sicurezza e Protezione dei Dati",
+        "content": "Ci impegniamo a proteggere la sicurezza dei tuoi dati sulla privacy e non venderemo, affitteremo o scambieremo i tuoi dati di navigazione ad alcuna organizzazione commerciale di terze parti."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: Maggio 2026",
+    "sections": [
+      {
+        "title": "Contenuto e Uso del Sito Web",
+        "content": "Questo sito web fornisce informazioni di viaggio e storiche sulla Fontana dei Tritoni a Malta. Tutto il contenuto è solo per riferimento. Le condizioni effettive dell'attrazione possono cambiare in qualsiasi momento; si prega di fare riferimento agli annunci ufficiali."
+      },
+      {
+        "title": "Proprietà Intellettuale",
+        "content": "Il testo, le immagini e i design di layout su questo sito web sono protetti da copyright. Senza esplicito permesso scritto, nessuno può utilizzare il contenuto del sito web per profitto commerciale."
+      },
+      {
+        "title": "Dichiarazione di Non Responsabilità",
+        "content": "Facciamo del nostro meglio per garantire l'accuratezza e la tempestività delle informazioni, ma non ci assumiamo alcuna responsabilità legale per eventuali ritardi o perdite di viaggio causati direttamente o indirettamente dall'uso delle informazioni fornite su questo sito web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni dei Cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie Essenziali",
+      "description": "Necessari per le funzionalità di base del sito web e non possono essere disattivati.",
+      "badge": "Sempre attivi"
+    },
+    "analytics": {
+      "title": "Analisi",
+      "description": "Aiutaci a capire il comportamento dei visitatori e a migliorare il sito web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizzati per il tracciamento tra siti e per la consegna di annunci personalizzati."
+    },
+    "save": "Salva Preferenze",
+    "saved": "Preferenze salvate!"
+  },
+  "officialManagement": {
+    "title": "Informazioni sulla Fontana dei Tritoni",
+    "text": "La Fontana dei Tritoni è un importante punto di riferimento e monumento pubblico a Malta. La struttura è regolarmente mantenuta e gestita dai dipartimenti municipali e dalle autorità per il patrimonio competenti per garantire le sue condizioni incontaminate come simbolo nazionale."
+  }
+}

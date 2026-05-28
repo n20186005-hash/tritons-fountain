@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Il-Funtana tat-Tritoni",
+    "description": "Gwida sħiħa għall-Funtana tat-Tritoni f'Malta. Tgħallem dwar din il-funtana ikonika fil-Furjana, inkluż il-post u l-informazzjoni għall-viżitaturi."
+  },
+  "header": {
+    "home": "Id-Dar",
+    "gallery": "Gallerija",
+    "reviews": "Reviżjonijiet",
+    "map": "Mappa",
+    "backToHome": "Lura għad-Dar"
+  },
+  "hero": {
+    "title": "Il-Funtana tat-Tritoni",
+    "subtitle": "Funtana · Malta",
+    "rating": "4.7",
+    "reviewCount": "27,532 reviżjoni",
+    "type": "Funtana",
+    "openMaps": "Ara fuq Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+  },
+  "intro": {
+    "title": "Skopri l-Funtana tat-Tritoni",
+    "description": "Il-Funtana tat-Tritoni hija waħda mill-aktar postijiet familjari famużi f'Malta, li tinsab fil-pjazza barra d-Daħla tal-Belt tal-Belt Valletta, fil-Furjana. Din il-funtana tal-bronż magnifika, mibnija fl-1959 u ddisinjata mill-iskultur Vincent Apap, fiha tliet Tritoni mitoloġiċi li jżommu baċin enormi, li jissimbolizza r-rabta profonda ta' Malta mal-baħar.",
+    "visitGuide": {
+      "title": "Għajnuniet għaż-Żjara",
+      "items": [
+        "Il-pjazza tal-funtana hija spazjuża u ċatta, perfetta għal mixja u ritratti.",
+        "Il-funtana hija mdawla sabiħ bil-lejl, u tagħmilha post eċċellenti għal veduti ta' bil-lejl.",
+        "Il-pjazza hija aċċessibbli ħafna u sservi bħala d-daħla ewlenija għall-belt storika tal-Belt Valletta."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti Ewlenin",
+      "items": [
+        "Statwi tal-bronż magnifiċi tat-Tritoni",
+        "Għeliem importanti Malti",
+        "Illuminazzjoni affaxxinanti bil-lejl",
+        "Pjazza pubblika spazjuża"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Dwar il-Funtana tat-Tritoni",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Sfond Storiku",
+        "content": "Il-Funtana tat-Tritoni nbniet fl-1959, iddisinjata mill-iskultur Malti rinomat Vincent Apap u d-draughtsman Victor Anastasi. Inbniet biex iżżejjen it-terminus il-ġdid tal-karozzi tal-linja u malajr saret simbolu tal-indipendenza u l-identità nazzjonali ta' Malta."
+      },
+      {
+        "id": "layout",
+        "title": "Disinn u Arkitettura",
+        "content": "L-istruttura ewlenija tal-funtana tikkonsisti fi tliet figuri tal-bronż tat-Tritoni li flimkien iżommu baċin enormi. L-ilma jfur mill-baċin, u joħloq kaskati sbieħ. Il-bażi hija mibnija mill-ġebla tal-franka, u tirrifletti l-istil arkitettoniku storiku tal-inħawi."
+      },
+      {
+        "id": "culture",
+        "title": "Sinifikat Kulturali",
+        "content": "Bħala għeliem barra d-Daħla tal-Belt tal-Belt Valletta, il-Funtana tat-Tritoni mhix biss post popolari għar-ritratti għat-turisti iżda wkoll pjazza ċentrali għar-residenti lokali biex jinġabru, jiċċelebraw festivals, u jospitaw avvenimenti pubbliċi ewlenin."
+      },
+      {
+        "id": "preservation",
+        "title": "Restawr u Preservazzjoni",
+        "content": "Il-funtana għaddiet minn restawr komprensiv bejn l-2017 u l-2018, fejn tneħħew is-snin ta' ħmieġ u ħsara biex l-istatwi tal-bronż jerġgħu lura għall-glorja oriġinali tagħhom. Il-pjazza ġiet ukoll iddisinjata mill-ġdid biex issir spazju pubbliku kompletament pedonali."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazzjoni Bażika",
+    "officialName": "Isem Uffiċjali",
+    "officialNameValue": "Il-Funtana tat-Tritoni",
+    "type": "Tip ta' Attrazzjoni",
+    "typeValue": "Funtana / Monument",
+    "country": "Pajjiż",
+    "countryValue": "Malta",
+    "city": "Belt",
+    "cityValue": "Il-Furjana",
+    "googleRating": "Klassifikazzjoni Google",
+    "googleRatingValue": "4.7 (27,532)",
+    "address": "Indirizz",
+    "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGW5+783 Il-Furjana, Malta",
+    "phone": "Telefon",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Ħinijiet taż-Żjara",
+    "park": "Aċċess għall-Pjazza",
+    "parkTime": "Miftuħa 24 siegħa kuljum",
+    "bestTime": "L-Aħjar Ħin biex Iżżur",
+    "bestTimeSpring": "Rebbiegħa: Temp pjaċevoli, perfett għal mixja fil-pjazza",
+    "bestTimeSummer": "Sajf: Igawdu r-riħ frisk u l-illuminazzjoni sabiħa bil-lejl",
+    "bestTimeAutumn": "Ħarifa: Temp moderat, ideali biex tieħu ritratti",
+    "bestTimeWinter": "Xitwa: Esperjenza l-atmosfera urbana paċifika",
+    "tip": "Il-funtana tinsab fi pjazza pubblika miftuħa u tista' tiġi viżitata mingħajr ħlas fi kwalunkwe ħin."
+  },
+  "tickets": {
+    "title": "Informazzjoni dwar id-Dħul",
+    "park": "Dritt taż-Żjara",
+    "parkPrice": "Bħala għeliem pubbliku, il-Funtana tat-Tritoni hija kompletament bla ħlas u miftuħa għall-viżitaturi kollha.",
+    "parking": "Ipparkjar",
+    "parkingPrice": "Ipparkjar pubbliku bi ħlas huwa disponibbli barra l-ħitan tal-Belt Valletta.",
+    "guided": "Btajjel Ggwidati",
+    "guidedPrice": "L-ebda tours iggwidati uffiċjali ma huma pprovduti, iżda ħafna tours bil-mixi fil-Belt Valletta jibdew hawn."
+  },
+  "transport": {
+    "title": "Kif tasal Hawn",
+    "fromCenter": "Miċ-Ċentru tal-Belt Valletta",
+    "fromCenterDesc": "Mixja ta' minuta biss barra d-Daħla tal-Belt biex tasal fil-pjazza tal-funtana.",
+    "fromStation": "Mit-Terminus tal-Karozzi tal-Linja",
+    "fromStationDesc": "It-terminus ewlieni tal-karozzi tal-linja tal-Belt Valletta huwa maġenb il-funtana.",
+    "fromAirport": "Mill-Ajruport",
+    "fromAirportDesc": "Xarabanks diretti mill-ajruport huma disponibbli għat-terminus tal-Belt Valletta.",
+    "publicTransport": "Trasport Pubbliku",
+    "publicTransportDesc": "Ir-rotot tal-karozzi tal-linja minn madwar Malta għandhom servizzi għat-terminus tal-Belt Valletta.",
+    "walking": "Mixi",
+    "walkingDesc": "Il-pjazza hija wiesgħa u ċatta, u tagħmilha adattata ħafna għall-mixi.",
+    "driving": "Sewqan",
+    "drivingDesc": "Huwa rrakkomandat li tipparkja fl-MCP Car Park u timxi."
+  },
+  "route": {
+    "title": "Rotta Rakkomandata",
+    "overview": "Skopri l-Funtana tat-Tritoni u ż-żona storika tal-madwar.",
+    "steps": [
+      "Wasal fit-terminus tal-karozzi tal-linja tal-Belt Valletta; il-Funtana tat-Tritoni se tkun l-ewwel dehra",
+      "Imxi madwar il-funtana biex tammira d-dettalji tal-istatwi tal-bronż tat-Tritoni",
+      "Ħu ritratt bid-Daħla tal-Belt magnifika fl-isfond",
+      "Aqsmu l-pont mid-Daħla tal-Belt u idħlu uffiċjalment fil-belt il-qadima storika tal-Belt Valletta",
+      "Malli terġa' lura bil-lejl, igawdu l-illuminazzjoni affaxxinanti tal-funtana"
+    ]
+  },
+  "photoSpots": {
+    "title": "L-Aħjar Postijiet għar-Ritratti",
+    "spots": [
+      {
+        "title": "Panorama ta' Quddiem",
+        "description": "Iqiegħed direttament quddiem il-pjazza biex taqbad il-veduta spettakolari.",
+        "location": "Quddiem il-Funtana",
+        "image": "/gallery/tritons-fountain (1).jpg"
+      },
+      {
+        "title": "Sfond tad-Daħla tal-Belt",
+        "description": "Uża d-Daħla tal-Belt moderna bħala sfond biex taqbad it-taħlita tal-qedem u l-modern.",
+        "location": "Ġenb tal-Funtana",
+        "image": "/gallery/tritons-fountain (2).jpg"
+      },
+      {
+        "title": "Illuminazzjoni ta' Bil-lejl",
+        "description": "Meta jinxtegħlu d-dwal bil-lejl, il-funtana tiddi deheb.",
+        "location": "Kwalunkwe Angolu",
+        "image": "/gallery/tritons-fountain (3).jpg"
+      },
+      {
+        "title": "Mill-Qrib tal-Kaskati",
+        "description": "Qorob biex taqbad is-sbuħija dinamika tal-ilma li jinżel mill-baċin enormi.",
+        "location": "Tarf tal-Funtana",
+        "image": "/gallery/tritons-fountain (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Gwida għall-Akkomodazzjoni",
+    "hotels": [
+      {
+        "name": "Belt Valletta (Il-Belt l-Qadima)",
+        "desc": "Bqija fil-ħitan tal-belt toffri esperjenza storika immersiva.",
+        "price": "Rakkomandat"
+      },
+      {
+        "name": "Il-Furjana",
+        "desc": "Id-distrett fejn tinsab il-funtana joffri ħafna lukandi eleganti.",
+        "price": "Rakkomandat"
+      },
+      {
+        "name": "Tas-Sliema",
+        "desc": "Jekk tippreferi atmosfera ta' resort mal-baħar, Tas-Sliema hija għażla kbira.",
+        "price": "Rakkomandat"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallerija tar-Ritratti",
+    "subtitle": "Veduti Spettakolari tal-Funtana tat-Tritoni",
+    "captions": [
+      "Panorama tal-funtana",
+      "Mill-qrib tal-istatwa tat-Tritoni",
+      "Funtana bil-lejl",
+      "Veduta tal-pjazza",
+      "Dettalji tal-baċin",
+      "Sfond tad-Daħla tal-Belt",
+      "Nisġa tal-bronż",
+      "Effetti tal-illuminazzjoni",
+      "Ilma li jtajjar",
+      "Fil-għabex",
+      "Folla bieżla",
+      "Veduta mill-bogħod",
+      "Taħlita ta' arkitettura storika",
+      "Funtana taħt sema ċar",
+      "Għodwa paċifika",
+      "Veduta tal-pjazza bil-lejl"
+    ],
+    "viewAll": "Ara fuq Google Maps",
+    "showAll": "Ara r-Ritratti Kollha",
+    "showLess": "Uri Inqas"
+  },
+  "reviews": {
+    "title": "Reviżjonijiet tal-Viżitaturi",
+    "declaration": "Ir-reviżjonijiet jistgħu jidhru permezz ta' Google Maps.",
+    "moreReviews": "Ara aktar reviżjonijiet fuq Google Maps",
+    "items": [
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "Għeliem perfett qabel ma tidħol fil-Belt Valletta. Il-funtana tidher assolutament magnifika, speċjalment meta tkun imdawla bil-lejl."
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Pjazza kbira u nadifa ħafna. Tara din il-funtana spettakolari eżatt wara li tinżel mill-karozza tal-linja."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "Waħda mill-istrutturi ikoniċi ta' Malta. Li toqgħod ħdejn il-funtana huwa rilassanti ħafna."
+      },
+      {
+        "name": "David T.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Wara r-rinnovazzjoni, il-pjazza kollha saret żona pedonali. Perfetta biex tieħu ritratti."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "It-tliet statwi tat-Tritoni huma realistiċi, u l-kombinazzjoni tal-bronż u l-ilma turi r-rabta mill-qrib ta' Malta mal-baħar."
+      },
+      {
+        "name": "James M.",
+        "rating": 4,
+        "date": "2025-09-05",
+        "text": "Għalkemm hija biss funtana, hija l-punt tat-tluq ta' kull vjaġġ lejn il-kapitali u ġġorr il-memorji ta' din il-belt."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Post tal-Mappa",
+    "subtitle": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "openMaps": "Ara fuq Google Maps"
+  },
+  "footer": {
+    "brandName": "Il-Funtana tat-Tritoni",
+    "brandSubtitle": "Monument · Malta",
+    "rights": "© 2026 Proġett ta' Riċerka dwar it-Turiżmu Indipendenti · Id-Drittijiet Kollha Riżervati.",
+    "privacy": "Politika ta' Privatezza",
+    "terms": "Termini ta' Servizz",
+    "cookies": "Settings tal-Cookies",
+    "officialResourcesTitle": "Riżorsi u Informazzjoni Relatati",
+    "officialLinks": {
+      "gov": "Gvern ta' Malta",
+      "visitmalta": "Visit Malta",
+      "localgov": "Kunsill Lokali tal-Furjana",
+      "heritage": "Sovrintendenza tal-Patrimonju Kulturali",
+      "planning": "Awtorità tal-Ippjanar"
+    },
+    "disclaimer": "Dan il-websajt huwa proġett ta' informazzjoni dwar it-turiżmu ta' parti terza indipendenti."
+  },
+  "privacy": {
+    "title": "Politika ta' Privatezza",
+    "lastUpdated": "Aġġornat l-aħħar: Mejju 2026",
+    "sections": [
+      {
+        "title": "Ġbir ta' Informazzjoni",
+        "content": "Meta żżur il-websajt tagħna, nistgħu niġbru awtomatikament informazzjoni bażika biex nipprovdu esperjenza aħjar."
+      },
+      {
+        "title": "Użu tal-Cookies",
+        "content": "Aħna nużaw il-cookies biex nanalizzaw it-traffiku tal-websajt u nottimizzaw il-kontenut tal-paġna."
+      },
+      {
+        "title": "Sigurtà u Protezzjoni tad-Dejta",
+        "content": "Aħna impenjati li nipproteġu s-sigurtà tad-dejta tal-privatezza tiegħek."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini ta' Servizz",
+    "lastUpdated": "Aġġornat l-aħħar: Mejju 2026",
+    "sections": [
+      {
+        "title": "Kontenut u Użu tal-Websajt",
+        "content": "Dan il-websajt jipprovdi informazzjoni dwar l-ivvjaġġar u l-istorja dwar il-Funtana tat-Tritoni."
+      },
+      {
+        "title": "Proprjetà Intellettwali",
+        "content": "It-test, l-immaġini, u d-disinji tal-format fuq dan il-websajt huma protetti bid-drittijiet tal-awtur."
+      },
+      {
+        "title": "Ċaħda",
+        "content": "Aħna nagħmlu l-almu tagħna biex niżguraw l-eżattezza u l-puntwalità tal-informazzjoni, iżda ma nġorru l-ebda responsabbiltà legali."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Settings tal-Cookies",
+    "description": "Immaniġġja l-preferenzi tal-cookies tiegħek.",
+    "essential": {
+      "title": "Cookies Essenzjali",
+      "description": "Meħtieġa għall-funzjonalità bażika tal-websajt.",
+      "badge": "Dejjem attivi"
+    },
+    "analytics": {
+      "title": "Analitika",
+      "description": "Għinuna nifhmu l-imġiba tal-viżitaturi u ntejbu l-websajt."
+    },
+    "marketing": {
+      "title": "Kummerċjalizzazzjoni",
+      "description": "Użati għal traċċar bejn is-siti u twassil ta' reklami personalizzati."
+    },
+    "save": "Issejvja l-Preferenzi",
+    "saved": "Il-preferenzi ġew issejvjati!"
+  },
+  "officialManagement": {
+    "title": "Dwar il-Funtana tat-Tritoni",
+    "text": "Il-Funtana tat-Tritoni hija għeliem sinifikanti u monument pubbliku f'Malta. L-istruttura tinżamm u tiġi ġestita ta' rutina mid-dipartimenti muniċipali u l-awtoritajiet tal-wirt rilevanti biex tiġi żgurata l-kundizzjoni verġni tagħha bħala simbolu nazzjonali."
+  }
+}

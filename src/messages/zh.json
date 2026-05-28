@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "海神喷泉 (Tritons’ Fountain)",
+    "description": "马耳他海神喷泉的完整旅游指南。了解这座位于弗洛里亚纳的标志性喷泉，获取位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "海神喷泉",
+    "subtitle": "喷泉 · 马耳他",
+    "rating": "4.7",
+    "reviewCount": "27,532 条评价",
+    "type": "喷泉",
+    "openMaps": "在 Google Maps 查看",
+    "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+  },
+  "intro": {
+    "title": "探索海神喷泉",
+    "description": "海神喷泉 (Tritons’ Fountain) 是马耳他最著名的地标之一，位于首都瓦莱塔城门外的弗洛里亚纳广场。这座宏伟的青铜喷泉建于1959年，由雕塑家文森特·阿帕普设计，三个海神托起巨大的水盆，象征着马耳他与海洋的深厚渊源。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "喷泉广场宽阔平坦，非常适合散步和拍照。",
+        "夜间喷泉会亮起灯光，是欣赏夜景和浪漫漫步的绝佳地点。",
+        "广场周边交通便利，是进入瓦莱塔老城区的必经之地。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "宏伟的青铜海神雕像",
+        "马耳他重要地标",
+        "夜晚迷人的灯光效果",
+        "宽阔的公共广场"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于海神喷泉",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "海神喷泉建于1959年，由马耳他著名雕塑家文森特·阿帕普 (Vincent Apap) 和绘图员维克多·阿纳斯塔西 (Victor Anastasi) 共同设计。喷泉的建设是为了装饰新建的巴士总站，并很快成为马耳他独立和国家认同的象征之一。"
+      },
+      {
+        "id": "layout",
+        "title": "设计与建筑",
+        "content": "喷泉的主体由三个青铜海神雕像组成，他们共同托起一个巨大的盆。水从盆中溢出，形成美丽的瀑布。底座采用石灰岩建造，与周围的历史建筑风格相呼应。"
+      },
+      {
+        "id": "culture",
+        "title": "文化意义",
+        "content": "作为瓦莱塔城门外的标志性建筑，海神喷泉不仅是游客拍照的打卡地，也是当地居民聚集、庆祝节日和举办重大公共活动的中心广场。"
+      },
+      {
+        "id": "preservation",
+        "title": "修复与保护",
+        "content": "喷泉在2017年至2018年间进行了全面修复，清除了多年的污垢和损坏，恢复了青铜雕像的本来面貌。广场也进行了重新设计，使其完全成为行人专用的公共空间。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Tritons’ Fountain",
+    "type": "景点类型",
+    "typeValue": "喷泉 / 纪念碑",
+    "country": "国家",
+    "countryValue": "马耳他 (Malta)",
+    "city": "城市",
+    "cityValue": "弗洛里亚纳 (Floriana)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.7 (27,532)",
+    "address": "地址",
+    "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGW5+783 Il-Furjana, Malta",
+    "phone": "联系电话",
+    "phoneValue": "无"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "广场开放",
+    "parkTime": "全天24小时开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，适合广场漫步",
+    "bestTimeSummer": "夏季：夜间灯光开启时，享受清凉与美景",
+    "bestTimeAutumn": "秋季：天气温和，适合摄影留念",
+    "bestTimeWinter": "冬季：体验宁静的城市氛围",
+    "tip": "喷泉位于开放的公共广场，全天候均可免费参观。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "参观费用",
+    "parkPrice": "作为公共景观，海神喷泉完全免费向所有公众开放",
+    "parking": "停车",
+    "parkingPrice": "周边瓦莱塔城外有付费公共停车场",
+    "guided": "导游服务",
+    "guidedPrice": "不提供官方导游服务，但许多瓦莱塔城市徒步游会以此为起点"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从瓦莱塔市中心",
+    "fromCenterDesc": "出瓦莱塔城门步行仅需1分钟即可到达喷泉广场。",
+    "fromStation": "从公交总站",
+    "fromStationDesc": "瓦莱塔主要公交总站紧邻喷泉，几乎所有前往首都的公交车都在此停靠。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "可乘坐机场大巴直达瓦莱塔公交总站。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "马耳他全国各地的公交线路均有前往瓦莱塔总站的班次。",
+    "walking": "步行",
+    "walkingDesc": "广场宽阔平坦，非常适合步行前往瓦莱塔城门。",
+    "driving": "自驾",
+    "drivingDesc": "建议将车辆停在MCP停车场 (MCP Car Park) 后步行前往。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索海神喷泉及周边历史区域。",
+    "steps": [
+      "抵达瓦莱塔公交总站，首先映入眼帘的便是海神喷泉",
+      "绕喷泉一圈，欣赏青铜海神雕像的细节",
+      "以喷泉为背景，与宏伟的瓦莱塔城门合影",
+      "穿过城门桥，正式进入瓦莱塔历史老城区",
+      "夜晚返回时，欣赏喷泉迷人的夜间灯光"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "喷泉正面全景",
+        "description": "站在广场正前方，捕捉三个海神托起水盆的壮观画面。",
+        "location": "喷泉正前方",
+        "image": "/gallery/tritons-fountain (1).jpg"
+      },
+      {
+        "title": "瓦莱塔城门背景",
+        "description": "以现代化的瓦莱塔城门为背景，拍摄古老喷泉与现代建筑的交融。",
+        "location": "喷泉侧面",
+        "image": "/gallery/tritons-fountain (2).jpg"
+      },
+      {
+        "title": "夜间灯光秀",
+        "description": "夜晚灯光亮起时，喷泉呈现出金色的光芒，是拍摄夜景的绝佳时机。",
+        "location": "广场任意角度",
+        "image": "/gallery/tritons-fountain (3).jpg"
+      },
+      {
+        "title": "水花特写",
+        "description": "近距离拍摄水流从巨大水盆中倾泻而下的动态美感。",
+        "location": "喷泉边缘",
+        "image": "/gallery/tritons-fountain (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "周边住宿指南",
+    "hotels": [
+      {
+        "name": "瓦莱塔老城区",
+        "desc": "住在城墙内可以沉浸式体验历史氛围，步行几分钟即可到达喷泉。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "弗洛里亚纳",
+        "desc": "喷泉所在的行政区，提供许多优雅的酒店，距离主要景点都很近。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "斯利马 (Sliema)",
+        "desc": "如果您喜欢海滨度假感，可选择斯利马，乘坐渡轮前往瓦莱塔非常方便。",
+        "price": "推荐区域"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "海神喷泉的壮丽景象",
+    "captions": [
+      "喷泉全景",
+      "海神雕像特写",
+      "夜间喷泉",
+      "广场风光",
+      "水盆细节",
+      "城门背景",
+      "青铜质感",
+      "灯光效果",
+      "水花飞溅",
+      "黄昏时分",
+      "人群熙攘",
+      "纪念碑远景",
+      "历史建筑交相辉映",
+      "晴空下的喷泉",
+      "宁静的早晨",
+      "广场夜景"
+    ],
+    "viewAll": "在 Google Maps 查看",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过 Google Maps 查看。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "进入瓦莱塔之前的完美地标。尤其是晚上灯光亮起时，喷泉显得非常宏伟漂亮。"
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "一个巨大的广场，非常干净。刚下公交车就能看到这座壮观的喷泉，给人留下深刻的印象。"
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "马耳他的标志性建筑之一。坐在喷泉边休息，看着人来人往，感觉很惬意。"
+      },
+      {
+        "name": "David T.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "重新翻修后，整个广场变成了步行区，没有了以前的拥挤和尾气，非常适合拍照留念。"
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "三个海神雕像栩栩如生，青铜与水的结合展示了马耳他与海洋的紧密联系。"
+      },
+      {
+        "name": "James M.",
+        "rating": 4,
+        "date": "2025-09-05",
+        "text": "虽然只是个喷泉，但它是每次前往首都瓦莱塔的起点，承载了这座城市的记忆。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "brandName": "海神喷泉",
+    "brandSubtitle": "纪念碑 · 马耳他",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "gov": "马耳他中央政府",
+      "visitmalta": "国家及大区级官方旅游局",
+      "localgov": "弗洛里亚纳市政府",
+      "heritage": "马耳他文化遗产监督局",
+      "planning": "马耳他国家规划局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关马耳他海神喷泉的旅游及历史信息。所有内容仅供参考，景点的实际情况可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于海神喷泉",
+    "text": "海神喷泉 (Tritons’ Fountain) 是马耳他重要的地标性公共纪念碑。该建筑由相关市政部门及历史遗产机构进行日常维护与管理，确保其作为国家象征的完好状态。"
+  }
+}
