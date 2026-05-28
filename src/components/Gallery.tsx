@@ -2,6 +2,7 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
+import Image from 'next/image';
 
 const photos = [
   { src: '/gallery/tritons-fountain (1).jpg', alt: 'Tritons’ Fountain Photo 1' },
@@ -65,17 +66,18 @@ export default function Gallery() {
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 && !showAll ? 'col-span-2 row-span-2' : ''}`}
+                  style={{ minHeight: i === 0 && !showAll ? '400px' : '180px' }}
                   onClick={() => {
                     setCurrentIndex(i);
                     openLightbox();
                   }}
                 >
-                  <img
+                  <Image
                     src={photo.src}
                     alt={photo.alt}
-                    className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
+                    fill
+                    className="object-cover rounded-lg"
+                    sizes={i === 0 && !showAll ? "(max-width: 768px) 100vw, 50vw" : "(max-width: 768px) 50vw, 25vw"}
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -129,8 +131,8 @@ export default function Gallery() {
                 </button>
               )}
               <a
-              href="https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
-              target="_blank"
+                href={messages?.hero?.mapsLink as string || "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"}
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
                 style={{ color: 'var(--accent)' }}
@@ -160,7 +162,7 @@ export default function Gallery() {
 
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
-            className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
+            className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors z-10"
             aria-label="Previous photo"
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
@@ -168,16 +170,18 @@ export default function Gallery() {
             </svg>
           </button>
 
-          <img
-            src={galleryPhotos[currentIndex].src}
-            alt={galleryPhotos[currentIndex].alt}
-            className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
-            onClick={(e) => e.stopPropagation()}
-          />
+          <div className="relative w-full h-full max-w-[90vw] max-h-[85vh]" onClick={(e) => e.stopPropagation()}>
+            <Image
+              src={galleryPhotos[currentIndex].src}
+              alt={galleryPhotos[currentIndex].alt}
+              fill
+              className="object-contain rounded-lg"
+            />
+          </div>
 
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
-            className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
+            className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors z-10"
             aria-label="Next photo"
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">

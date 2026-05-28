@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations, useMessages } from 'next-intl';
+import Image from 'next/image';
 
 export default function PhotoSpotsSection() {
   const t = useTranslations('photoSpots');
@@ -47,7 +48,7 @@ function PhotoSpotCard({ title, description, image, location, index }: { title: 
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
       >
         {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
+          <Image src={image} alt={title} fill className="object-cover transition-transform hover:scale-105" sizes="(max-width: 768px) 100vw, 50vw" />
         ) : (
           <div className="text-center">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">

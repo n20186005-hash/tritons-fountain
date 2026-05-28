@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -7,10 +8,12 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
-        <img
+        <Image
           src="/gallery/tritons-fountain (1).jpg"
           alt="Tritons’ Fountain"
-          className="w-full h-full object-cover"
+          fill
+          priority
+          className="object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -42,7 +45,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('type')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+              href={t('mapsLink')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

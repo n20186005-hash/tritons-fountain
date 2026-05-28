@@ -1,7 +1,8 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const messages = useMessages() as any;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -39,7 +40,7 @@ export default function MapEmbed() {
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+            href={messages?.hero?.mapsLink as string || "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
