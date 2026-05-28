@@ -1,0 +1,130 @@
+你正在用（Next.js开发）
+为一个新景点【  Conjunto Monumental de la Alcazaba de Almería  】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+tritons-fountain
+马耳他
+斯利马	Tritons’ Fountain
+
+Tritons’ Fountain
+4.7(27,532)
+喷泉
+
+VGW5+783, Vjal Nelson, Il-Furjana, Malta
+
+https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6
+
+
+
+买域名推荐
+
+
+alcazabadealmeria.com
+
+我们网站是alcazabadealmeria.com
+检查下有没有错误
+
+
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\conjunto-monumental-de-la-alcazaba-de-almeria\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+
+西班牙国家旅游局
+https://www.spain.info/
+安达卢西亚大区政府旅游局
+https://www.andalucia.org/
+阿尔梅里亚省官方旅游局 
+https://turismoalmeria.com/
+阿尔梅里亚市政府官方旅游局
+https://www.turismodealmeria.org/
+安达卢西亚历史遗产研究所
+https://guiadigital.iaph.es/
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+
+
+
+为您整理了 Conjunto Monumental de la Alcazaba de Almería（阿尔梅里亚阿尔卡萨瓦城堡）严格从国家级机构向下延伸至地方专业遗产数据库的5个纯正官方政府链接链条。
+
+由于该城堡是西班牙现存规模最大的摩尔人堡垒遗址之一，其管辖权限极为严格，这套结构精确对齐了这处重要考古遗址的真实行政与遗产管理体系：
+
+**1. 国家级：西班牙国家旅游局（Turespaña）**
+
+* **主管政府部门**：西班牙工业与旅游部 (Ministerio de Industria y Turismo)
+* **官方网站**：[spain.info](https://www.spain.info)
+* **数据价值**：提供西班牙国家层面的宏观出入境旅游指引，将这座安达卢西亚境内的标志性伊斯兰建筑遗产作为国家级文化旅游名片进行跨国界宣发与背书。
+
+**2. 大区级：安达卢西亚大区政府旅游局（Turismo y Deporte de Andalucía）**
+
+* **主管政府部门**：安达卢西亚大区政府 (Junta de Andalucía)
+* **官方网站**：[andalucia.org](https://www.andalucia.org)
+* **数据价值**：统筹安达卢西亚大区南部的整体旅游资源网络。提供以该大区伊斯兰历史文化（Al-Ándalus）为主题的跨区域官方经典旅游路线规划（如联动格拉纳达、科尔多瓦）及宏观交通调度信息。
+
+**3. 市级：阿尔梅里亚市政府官方旅游局（Turismo de Almería）**
+
+* **主管政府部门**：阿尔梅里亚市议会旅游市政企业 (Empresa Municipal Almería Turística, Ayuntamiento de Almería)
+* **官方网站**：[turismodealmeria.org](https://www.turismodealmeria.org)
+* **数据价值**：提供该地标所在的阿尔梅里亚核心城区的在地政务与市政服务支持。包含前往城堡的市政公交路线、周边老城区（Medina）步道指引、市级活动日历及周边配套游客设施的精确信息。
+
+**4. 专项古迹管辖与文化空间数据库：安达卢西亚文化空间网络（Red de Espacios Culturales de Andalucía）**
+
+* **主管政府部门**：安达卢西亚大区政府文化、旅游与体育部 (Consejería de Turismo, Cultura y Deporte)
+* **专属官方网站**：[museosdeandalucia.es/web/conjuntomonumentalalcazabaalmeria](https://www.google.com/search?q=http://www.museosdeandalucia.es/web/conjuntomonumentalalcazabaalmeria) (也可通过大区文化局专署域名 `juntadeandalucia.es/cultura` 访问)
+* **数据价值**：阿尔卡萨瓦城堡属大区直辖的重要纪念碑群。该直属政务官网代表了古迹“直接运营方”的最高权威，提供极为严格的官方考古区域开放限制状态、实时的免费参观政策与导览时间表，以及官方定期的文化遗产教育项目通告。
+
+**5. 地方级专业历史遗产与考古数据库：安达卢西亚历史遗产数字档案库（Guía Digital del IAPH）**
+
+* **主管政府部门**：安达卢西亚历史遗产研究所 (Instituto Andaluz del Patrimonio Histórico)
+* **官方网站**：[guiadigital.iaph.es](https://guiadigital.iaph.es)
+* **数据价值**：这是安达卢西亚大区最高级别的纯专业不动产与考古数据库。专项收录了该建筑群作为“文化遗产保护单位”（Bien de Interés Cultural, BIC）的确切政府认证编号。内部档案包含了详细的摩尔人城墙结构演变史、历次考古发掘的学术级地层报告、三维测绘数据以及由政府监督的古迹修复工程技术履历，是整条数据链中最深度的专业渊源。
