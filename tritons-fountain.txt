@@ -16,12 +16,22 @@ https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6
 
 
 
+表单项	填写内容	说明
+国家 / 地区 *	马耳他 / Malta	下拉框选择
+地址行 1*	Vjal Nelson, Tritons’ Fountain	填写主路与地标名称，保证辨识度
+地址行 2	（可选空着，或填 VGW5+783）	补充 Plus Code 或额外信息
+城市 *	Il-Furjana (Floriana)	填写官方名称 Il-Furjana，补充通用英文名 Floriana
+省 / 自治区 / 直辖市 *	Floriana / 弗洛里亚纳	马耳他无省级行政区，直接填城镇名即可
+邮政编码 *	FRN 1154	匹配该区域的标准邮政编码
+
+
+
 买域名推荐
 
 
-alcazabadealmeria.com
 
-我们网站是alcazabadealmeria.com
+
+我们网站是  tritonsfountainmalta.com
 检查下有没有错误
 
 

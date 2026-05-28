@@ -15,12 +15,13 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://rosevalleyparkchisinau.com';
+  const baseUrl = 'https://tritonsfountainmalta.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const roUrl = `${baseUrl}/ro`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
+  const itUrl = `${baseUrl}/it`;
+  const mtUrl = `${baseUrl}/mt`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'it' ? itUrl : locale === 'mt' ? mtUrl : enUrl;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -31,7 +32,8 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'ro': roUrl,
+        'it': itUrl,
+        'mt': mtUrl,
         'x-default': enUrl,
       },
     },
@@ -39,8 +41,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Rose Valley Park",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'ro_RO',
+      siteName: "Tritons' Fountain",
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'it' ? 'it_IT' : locale === 'mt' ? 'mt_MT' : 'en_US',
       type: 'website',
     },
   };
@@ -63,7 +65,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html lang={locale === 'zh' ? 'zh-CN' : locale} suppressHydrationWarning>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
